@@ -1,6 +1,6 @@
 # swiss-ma-valuation-engine-
 ## 🇨🇭 Swiss M&A Valuation Engine (Trading Comparables Automation)
-[![Live Web Application](https://a5at9trin2arxwraspewfm.streamlit.app/)]
+[![Live Web Application](https://img.shields.io/badge/Live%20Dashboard-Streamlit-FF4B4B?style=for-the-badge)](https://a5at9trin2arxwraspewfm.streamlit.app/)
 
 An automated corporate finance tool that scrapes live market data from the SIX Swiss Exchange to generate real-time public trading comparables ("Comps"). The engine establishes a valuation benchmark to calculate the implied **Enterprise Value (EV)** of private target companies in real time. 
 
